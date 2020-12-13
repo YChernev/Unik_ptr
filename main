@@ -1,0 +1,12 @@
+#include <iostream>
+#include <utility>
+
+
+template <typename T>
+class Unik_ptr {
+public:
+
+
+private:
+T* myPtr;
+};
